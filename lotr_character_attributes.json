@@ -1,1037 +1,344 @@
 {
-    "Anborn": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Angbor": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Aragorn": {
-        "people": [
-            "Arnor"
-        ],
-        "aliases": [
-            "Aragorn II",
-            "Thorongil",
-            "Elessar",
-            "Edhelharn",
-            "Elfstone",
-            "Envinyatar",
-            "Estel",
-            "Strider",
-            "Wingfoot",
-            "Isildur's Heir",
-            "The Dúnadan",
-            "Longshanks",
-            "Arakorno",
-            "Aragorn#Other names"
-        ]
-    },
-    "Arwen": {
-        "people": [
-            "Half-elven"
-        ],
-        "aliases": [
-            "Quenya",
-            "Sindarin"
-        ]
-    },
-    "Barliman Butterbur": {
-        "people": [
-            "Men"
-        ],
-        "aliases": null
-    },
-    "Beechbone": {
-        "people": [
-            "Ents"
-        ],
-        "aliases": null
-    },
-    "Beregond": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Bergil": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Bilbo Baggins": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Barrel-rider",
-            "Bilba Labingi",
-            "Burglar",
-            "Child of the Kindly West",
-            "Clue-finder",
-            "Elf-friend",
-            "Luckwearer",
-            "Mad Baggins",
-            "Mr. Lucky Number",
-            "Bilbo the Magnificent",
-            "Ring-bearer",
-            "Ringwinner",
-            "Stinging Fly",
-            "Thief",
-            "Web-cutter",
-            "#Other names"
-        ]
-    },
-    "Bill Ferny": {
-        "people": [
-            "Men of Bree"
-        ],
-        "aliases": null
-    },
-    "Bob": {
-        "people": [
-            "Bree-landers"
-        ],
-        "aliases": null
-    },
-    "Boromir": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Bowman Cotton": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Carl Cotton": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Celeborn": {
-        "people": [
-            "Sindar"
-        ],
-        "aliases": [
-            "Teleporno",
-            "Telerin"
-        ]
-    },
-    "Ceorl": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Círdan": {
-        "people": [
-            "Sindar"
-        ],
-        "aliases": [
-            "Primitive Elvish",
-            "Quenya"
-        ]
-    },
-    "Daddy Twofoot": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Damrod": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Denethor": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Déorwine": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Derufin": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Dervorin": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Duilin (son of Duinhir)": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Duinhir": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Dúnhere": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Durin's Bane": {
-        "people": [
-            "Maiar",
-            "Balrogs"
-        ],
-        "aliases": null
-    },
-    "Elfhelm": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Elladan and Elrohir": {
-        "people": [
-            "Half-elven"
-        ],
-        "aliases": null
-    },
-    "Elrond": {
-        "people": [
-            "Half-elven"
-        ],
-        "aliases": [
-            "Quenya",
-            "Sindarin",
-            "Half-elven"
-        ]
-    },
-    "Éomer": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Éothain": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Éowyn": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Erestor": {
-        "people": [
-            "Elves"
-        ],
-        "aliases": null
-    },
-    "Erkenbrand": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "F": {
-        "people": [
-            "Men",
-            "Wraiths"
-        ],
-        "aliases": null
-    },
-    "Faramir": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Farmer Cotton": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Farmer Maggot": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Fastred (rider of Rohan)": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Folco Boffin": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Forlong": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Fredegar Bolger": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Frodo Baggins": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Frodo Baggins",
-            "Maura Labingi",
-            "Ring-bearer",
-            "Elf-friend",
-            "Mr. Underhill",
-            "The Halfling",
-            "Master",
-            "Nine-fingered Frodo\\Frodo of the Nine Fingers",
-            "Deputy Mayor of Michel Delving",
-            "Daur",
-            "Iorhael",
-            "Bingo Baggins",
-            "Bronwe athan Harthad",
-            "#Other names"
-        ]
-    },
-    "Gaffer Gamgee": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Ranugad",
-            "Galbasi"
-        ]
-    },
-    "Galadriel": {
-        "people": [
-            "Noldor"
-        ],
-        "aliases": [
-            "Quenya",
-            "Father-name",
-            "Amilessë",
-            "Telerin",
-            "epessë"
-        ]
-    },
-    "Galdor (elf of the Havens)": {
-        "people": [
-            "Sindar"
-        ],
-        "aliases": null
-    },
-    "Gamling": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Gandalf": {
-        "people": [
-            "Maiar",
-            "Wizards"
-        ],
-        "aliases": [
-            "Greyhame: Used in Rohan",
-            "Incánus: Gained during his long travels \"in the south\" (likely meaning no further south than Gondor or the Near Harad",
-            "An archaic Quenya word meaning \"Mind-ruler\"",
-            "An adaptation from Quenya incānus(se)",
-            "A possible Westron invention meaning \"Greymantle\".",
-            "Láthspell: The name given to Gandalf by Gríma Wormtongue when the former arrived at Meduseld. It means \"Ill-news\".",
-            "Mithrandir: His Sindarin name ({{IPA|[miˈθrandir]}})",
-            "Olórin: His original name in Valinor. It is Quenya",
-            "Stormcrow: The name given to Gandalf by King Théoden in Rohan",
-            "Tharkûn: The name given to Gandalf by the Dwarves.",
-            "The White Rider: The name given to him by Aragorn when he rides the great horse Shadowfax.",
-            "Quenya",
-            "Sindarin",
-            "Haradrim",
-            "Khuzdul",
-            "#Other names"
-        ]
-    },
-    "Gárulf": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Ghân-buri-Ghân": {
-        "people": [
-            "Drúedain"
-        ],
-        "aliases": null
-    },
-    "Gildor": {
-        "people": [
-            "Noldor"
-        ],
-        "aliases": null
-    },
-    "Gimli": {
-        "people": [
-            "Dwarves"
-        ],
-        "aliases": [
-            "Elf-friend",
-            "Lockbearer"
-        ]
-    },
-    "Gléowine": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Glóin": {
-        "people": [
-            "Dwarves"
-        ],
-        "aliases": null
-    },
-    "Glorfindel": {
-        "people": [
-            "Noldor"
-        ],
-        "aliases": [
-            "Quenya"
-        ]
-    },
-    "Golasgil": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Goldberry": {
-        "people": [],
-        "aliases": null
-    },
-    "Gollum": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Trahald",
-            "Westron"
-        ]
-    },
-    "Gorbag": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Gothmog (Lieutenant of Morgul)": {
-        "people": [],
-        "aliases": null
-    },
-    "Gríma": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Grimbold": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Grishnákh": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Guthláf": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Gwaihir": {
-        "people": [
-            "Eagles"
-        ],
-        "aliases": null
-    },
-    "Halbarad": {
-        "people": [
-            "Arnor"
-        ],
-        "aliases": [
-            "Dúnedain"
-        ]
-    },
-    "Haldir": {
-        "people": [
-            "Silvan Elves"
-        ],
-        "aliases": null
-    },
-    "Háma": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Harding (rider of Rohan)": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Harry Goatleaf": {
-        "people": [
-            "Men of Bree"
-        ],
-        "aliases": null
-    },
-    "Herefara": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Herubrand": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Hirgon": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Hirluin": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Hob Hayward": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Horn (rider of Rohan)": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Húrin (Warden of the Keys)": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Imrahil": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Ingold": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Ioreth": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Iorlas": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Khamûl": {
-        "people": [
-            "Men",
-            "Wraiths"
-        ],
-        "aliases": null
-    },
-    "King of the Dead": {
-        "people": [
-            "Oathbreakers"
-        ],
-        "aliases": null
-    },
-    "Lagduf": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Landroval": {
-        "people": [
-            "Eagles"
-        ],
-        "aliases": null
-    },
-    "Leaflock": {
-        "people": [
-            "Ents"
-        ],
-        "aliases": null
-    },
-    "Legolas": {
-        "people": [
-            "Sindar"
-        ],
-        "aliases": [
-            "Quenya"
-        ]
-    },
-    "Lindir": {
-        "people": [
-            "Elves"
-        ],
-        "aliases": null
-    },
-    "Lobelia Sackville-Baggins": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Lotho Sackville-Baggins": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Lugdush": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Mablung (ranger of Ithilien)": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Mat Heathertoes": {
-        "people": [
-            "Men of Bree"
-        ],
-        "aliases": null
-    },
-    "Mauhúr": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Meneldor": {
-        "people": [
-            "Eagles"
-        ],
-        "aliases": null
-    },
-    "Meriadoc Brandybuck": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Kalimac Brandagamba",
-            "Holdwine"
-        ]
-    },
-    "Minstrel of Gondor": {
-        "people": [
-            "Men"
-        ],
-        "aliases": null
-    },
-    "Mouth of Sauron": {
-        "people": [
-            "Men",
-            "Black Númenóreans"
-        ],
-        "aliases": null
-    },
-    "Mrs Maggot": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Muzgash": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Nob": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Odo Proudfoot": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Old Man Willow": {
-        "people": [
-            "Huorns"
-        ],
-        "aliases": null
-    },
-    "Old Noakes": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Orophin": {
-        "people": [
-            "Silvan Elves"
-        ],
-        "aliases": null
-    },
-    "Otho Sackville-Baggins": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Peregrin Took": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Pippin is a 'pet-form' of Peregrin related to the Westron abbreviation Razar which is a type of small red apple.",
-            "Razanur Tûk",
-            "\"Fool of a Took\" and \"Tom-fool of a Took\"",
-            "Ernil i Pheriannath",
-            "Guard of the Citadel",
-            "Knight of Gondor",
-            "Counsellor of the North-kingdom",
-            "Peregrin Took#Names and Titles"
-        ]
-    },
-    "Quickbeam": {
-        "people": [
-            "Ents"
-        ],
-        "aliases": null
-    },
-    "Radagast": {
-        "people": [
-            "Maiar",
-            "Wizards"
-        ],
-        "aliases": [
-            "Quenya"
-        ]
-    },
-    "Robin Smallburrow": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Rose Cotton": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Sindarin"
-        ]
-    },
-    "Rowlie Appledore": {
-        "people": [
-            "Men of Bree"
-        ],
-        "aliases": null
-    },
-    "Rúmil (elf of Lórien)": {
-        "people": [
-            "Silvan Elves"
-        ],
-        "aliases": null
-    },
-    "Samwise Gamgee": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": [
-            "Banazîr",
-            "Hobbitish",
-            "Perhael",
-            "Sindarin"
-        ]
-    },
-    "Sancho Proudfoot": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Saruman": {
-        "people": [
-            "Maiar",
-            "Wizards"
-        ],
-        "aliases": [
-            "Curumo",
-            "Curunír",
-            "Sharkey",
-            "Tarindor",
-            "The Wise",
-            "The White",
-            "Ring Maker",
-            "Of Many Colours",
-            "Tree-killer",
-            "Quenya",
-            "Sindarin",
-            "the White",
-            "the Wise",
-            "Ring-maker",
-            "Many Colours"
-        ]
-    },
-    "Sauron": {
-        "people": [
-            "Maiar"
-        ],
-        "aliases": [
-            "The Base Master of Treachery",
-            "The Black Hand",
-            "The Black Master",
-            "The Black One",
-            "The Dark Lord",
-            "The Dark Power",
-            "The Deceiver",
-            "The Enemy",
-            "The Eye",
-            "The Great",
-            "The King of Kings",
-            "The King of Men",
-            "The Lord of the Earth",
-            "The Lord of Barad-dûr",
-            "The Lord of the Ring or Lord of the Rings.",
-            "The Lord of the World",
-            "The Nameless",
-            "The Necromancer",
-            "The King",
-            "The One Enemy",
-            "The Ring-maker.",
-            "The Ruler",
-            "The Shadow",
-            "The Sorcerer",
-            "Wolf-Sauron",
-            "Quenya",
-            "Sindarin",
-            "Adûnaic",
-            "Eye of Sauron",
-            "#Other names"
-        ]
-    },
-    "Shagrat": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Shelob": {
-        "people": [
-            "Spiders"
-        ],
-        "aliases": null
-    },
-    "Skinbark": {
-        "people": [
-            "Ents"
-        ],
-        "aliases": null
-    },
-    "Snaga (orc of Mordor)": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Squint-eyed southerner": {
-        "people": [
-            "Dunlendings"
-        ],
-        "aliases": null
-    },
-    "Targon": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Ted Sandyman": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Théoden": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": [
-            "Horsemaster",
-            "Thengling"
-        ]
-    },
-    "Théodred": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Thranduil": {
-        "people": [
-            "Sindar"
-        ],
-        "aliases": null
-    },
-    "Tom Bombadil": {
-        "people": [
-            "Tom Bombadil/Nature"
-        ],
-        "aliases": [
-            "The Elves called him Iar<nowiki/>wain Ben-adar",
-            "The \"Northern Men\" gave him the name Orald.",
-            "The Dwarves gave him the name Forn.",
-            "Sindarin",
-            "Old English",
-            "Old Norse"
-        ]
-    },
-    "Tom Pickthorn": {
-        "people": [
-            "Men of Bree"
-        ],
-        "aliases": null
-    },
-    "Treebeard": {
-        "people": [
-            "Ents"
-        ],
-        "aliases": [
-            "Sindarin"
-        ]
-    },
-    "Uglúk": {
-        "people": [
-            "Orcs"
-        ],
-        "aliases": null
-    },
-    "Warden of the Houses of Healing": {
-        "people": [
-            "Gondorians"
-        ],
-        "aliases": null
-    },
-    "Watcher in the Water": {
-        "people": [],
-        "aliases": null
-    },
-    "Wídfara": {
-        "people": [
-            "Rohirrim"
-        ],
-        "aliases": null
-    },
-    "Widow Rumble": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Wilcome Cotton II": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Will Whitfoot": {
-        "people": [
-            "Hobbits"
-        ],
-        "aliases": null
-    },
-    "Witch-king": {
-        "people": [
-            "Men",
-            "Wraiths"
-        ],
-        "aliases": [
-            "Witch-king of Angmar",
-            "Witch-lord of Angmar",
-            "Sorcerer-King",
-            "Captain of the Black Riders",
-            "Lord of the Nazgûl",
-            "Lord of the Ringwraiths",
-            "Chieftain of the Ringwraiths",
-            "Lord of the Nine Riders",
-            "King of the Nine Riders",
-            "Wraith-lord",
-            "Wraith-king",
-            "High Nazgûl",
-            "King of Minas Morgul",
-            "Lord of Morgul",
-            "Morgul-lord",
-            "Black Captain",
-            "Captain of Despair",
-            "Dwimmerlaik",
-            "Lord of carrion",
-            "Number One"
-        ]
-    }
+  "Frodo Baggins": {
+    "aliases": [
+      "Frodo",
+      "Mr. Frodo",
+      "Frodo son of Drogo",
+      "the Ring-bearer"
+    ]
+  },
+  "Samwise Gamgee": {
+    "aliases": [
+      "Samwise",
+      "Sam",
+      "Sam Gamgee",
+      "Master Samwise",
+      "Sam Gardner"
+    ]
+  },
+  "Bilbo Baggins": {
+    "aliases": [
+      "Bilbo",
+      "Bilbo of Bag End",
+      "Bilbo the Hobbit"
+    ]
+  },
+  "Gandalf": {
+    "aliases": [
+      "Mithrandir",
+      "Gandalf the Grey",
+      "Gandalf the White",
+      "Grey Pilgrim",
+      "the Grey Pilgrim",
+      "the White Rider"
+    ]
+  },
+  "Aragorn": {
+    "aliases": [
+      "Strider",
+      "Elessar",
+      "Elfstone",
+      "Aragorn son of Arathorn",
+      "Aragorn II",
+      "the Dúnadan",
+      "Telcontar",
+      "Wingfoot"
+    ]
+  },
+  "Legolas": {
+    "aliases": [
+      "Legolas Greenleaf",
+      "Legolas of the Woodland Realm"
+    ]
+  },
+  "Gimli": {
+    "aliases": [
+      "Gimli son of Glóin",
+      "Gimli the Dwarf"
+    ]
+  },
+  "Boromir": {
+    "aliases": [
+      "Boromir son of Denethor"
+    ]
+  },
+  "Meriadoc Brandybuck": {
+    "aliases": [
+      "Merry",
+      "Merry Brandybuck",
+      "Meriadoc",
+      "Master Meriadoc"
+    ]
+  },
+  "Peregrin Took": {
+    "aliases": [
+      "Pippin",
+      "Pippin Took",
+      "Peregrin",
+      "Master Peregrin"
+    ]
+  },
+  "Gollum": {
+    "aliases": [
+      "Sméagol",
+      "Smeagol",
+      "Slinker",
+      "Stinker"
+    ]
+  },
+  "Saruman": {
+    "aliases": [
+      "Saruman the White",
+      "Saruman of Many Colours",
+      "Sharkey"
+    ]
+  },
+  "Sauron": {
+    "aliases": [
+      "the Dark Lord",
+      "the Lord of the Rings",
+      "the Nameless Eye",
+      "the Great Eye",
+      "the Eye"
+    ]
+  },
+  "Galadriel": {
+    "aliases": [
+      "Lady Galadriel",
+      "the Lady of the Golden Wood",
+      "the Lady of Lórien"
+    ]
+  },
+  "Elrond": {
+    "aliases": [
+      "Elrond Half-elven",
+      "Lord Elrond"
+    ]
+  },
+  "Éowyn": {
+    "aliases": [
+      "Eowyn",
+      "White Lady of Rohan",
+      "Lady of Rohan",
+      "Dernhelm"
+    ]
+  },
+  "Éomer": {
+    "aliases": [
+      "Eomer",
+      "Éomer Éadig",
+      "Eomer Eadig",
+      "Third Marshal of the Riddermark",
+      "Marshal of the Mark"
+    ]
+  },
+  "Théoden": {
+    "aliases": [
+      "Theoden",
+      "Théoden King",
+      "Theoden King",
+      "King of Rohan"
+    ]
+  },
+  "Faramir": {
+    "aliases": [
+      "Faramir son of Denethor",
+      "Captain Faramir"
+    ]
+  },
+  "Denethor": {
+    "aliases": [
+      "Denethor II",
+      "Denethor son of Ecthelion",
+      "Steward of Gondor",
+      "the Steward"
+    ]
+  },
+  "Treebeard": {
+    "aliases": [
+      "Fangorn",
+      "Ent",
+      "Eldest of the Ents"
+    ]
+  },
+  "Tom Bombadil": {
+    "aliases": [
+      "Iarwain Ben-adar",
+      "Eldest",
+      "Tom",
+      "Tom o' Bombadil"
+    ]
+  },
+  "Radagast": {
+    "aliases": [
+      "Radagast the Brown"
+    ]
+  },
+  "Arwen": {
+    "aliases": [
+      "Arwen Undómiel",
+      "Arwen Undomiel",
+      "Evenstar",
+      "Lady Arwen"
+    ]
+  },
+  "Lobelia Sackville-Baggins": {
+    "aliases": [
+      "Lobelia",
+      "Lobelia Sackville",
+      "Lobelia Baggins"
+    ]
+  },
+  "Lotho Sackville-Baggins": {
+    "aliases": [
+      "Lotho",
+      "Pimple",
+      "Lotho Sackville",
+      "Lotho Baggins"
+    ]
+  },
+  "Rosie Cotton": {
+    "aliases": [
+      "Rose Cotton",
+      "Rosie",
+      "Rose Gamgee",
+      "Mrs. Gamgee"
+    ]
+  },
+  "Gaffer Gamgee": {
+    "aliases": [
+      "Hamfast Gamgee",
+      "the Gaffer"
+    ]
+  },
+  "Farmer Maggot": {
+    "aliases": [
+      "Maggot",
+      "Farmer Maggot of Bamfurlong"
+    ]
+  },
+  "Barliman Butterbur": {
+    "aliases": [
+      "Butterbur",
+      "Barliman",
+      "Innkeeper of the Prancing Pony"
+    ]
+  },
+  "Nazgûl": {
+    "aliases": [
+      "Nazgul",
+      "Ringwraiths",
+      "the Nine",
+      "Black Riders"
+    ]
+  },
+  "Witch-king": {
+    "aliases": [
+      "Witch King",
+      "Witch-king of Angmar",
+      "Lord of the Nazgûl",
+      "Lord of the Nazgul",
+      "the Black Captain",
+      "Captain of Despair"
+    ]
+  },
+  "Gríma": {
+    "aliases": [
+      "Grima",
+      "Gríma Wormtongue",
+      "Grima Wormtongue",
+      "Wormtongue"
+    ]
+  },
+  "Éothain": {
+    "aliases": [
+      "Eothain"
+    ]
+  },
+  "Elfhelm": {
+    "aliases": []
+  },
+  "Éomer's Company": {
+    "aliases": []
+  },
+  "Imrahil": {
+    "aliases": [
+      "Prince Imrahil",
+      "Imrahil of Dol Amroth"
+    ]
+  },
+  "Boromir's Company": {
+    "aliases": []
+  },
+  "Halbarad": {
+    "aliases": []
+  },
+  "Haldir": {
+    "aliases": []
+  },
+  "Gwaihir": {
+    "aliases": [
+      "Gwaihir the Windlord"
+    ]
+  },
+  "Shelob": {
+    "aliases": []
+  },
+  "Quickbeam": {
+    "aliases": []
+  },
+  "Celeborn": {
+    "aliases": [
+      "Lord Celeborn",
+      "Celeborn of Lórien",
+      "Celeborn of Lorien"
+    ]
+  },
+  "Elrohir": {
+    "aliases": []
+  },
+  "Elladan": {
+    "aliases": []
+  },
+  "Círdan": {
+    "aliases": [
+      "Cirdan",
+      "Círdan the Shipwright",
+      "Cirdan the Shipwright"
+    ]
+  },
+  "Thranduil": {
+    "aliases": [
+      "Thranduil King of the Woodland Realm",
+      "Elvenking"
+    ]
+  },
+  "Erestor": {
+    "aliases": []
+  },
+  "Erkenbrand": {
+    "aliases": []
+  },
+  "Gamling": {
+    "aliases": [
+      "Gamling the Old"
+    ]
+  },
+  "Hirgon": {
+    "aliases": []
+  },
+  "Éomer's Riders": {
+    "aliases": []
+  },
+  "Gothmog": {
+    "aliases": [
+      "Gothmog Lieutenant of Morgul",
+      "Lieutenant of Morgul"
+    ]
+  },
+  "Mouth of Sauron": {
+    "aliases": [
+      "the Mouth of Sauron"
+    ]
+  }
 }
